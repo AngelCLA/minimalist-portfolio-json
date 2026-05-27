@@ -1,66 +1,67 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Luis Angel Cebreros Carrillo",
+    "label": "Ingeniero en Tecnologías de la Información con más de 2 años de experiencia, Docente Universitario y Desarrollador Web Fullstack",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "claangeldev@gmail.com",
+    "phone": "+52 6961073964",
+    "url": "https://claangel.site",
+    "summary": "+2 años de experiencia como Desarrollador Web Fullstack. Actualmente soy docente universitario de Programación. Vivo en Sinaloa, México. He trabajado en diferentes entornos: desde diseño de experiencias de usuario hasta la implementación de arquitecturas escalables. Me apasiona compartir conocimiento y ayudar a otros a crecer en el mundo del desarrollo de software.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "82700",
+      "city": "La Cruz de Elota",
+      "countryCode": "MX",
+      "region": "Sinaloa"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "luis-angel-cebreros-carrillo",
+        "url": "https://cla-links.pages.dev/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "cla__angel",
+        "url": "https://x.com/cla__angel"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "AngelCLA",
+        "url": "https://github.com/AngelCLA"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Universidad Politécnica del Mar Y la Sierra - UPMYS",
+      "position": "Tecnico Especializado en Electrónica - Docente - Desarrollador de Software",
+      "url": "https://upmys.edu.mx/",
+      "startDate": "2025-05-02",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Docente universitario en la UPMYS, donde imparto clases de programación y desarrollo de software. Además, desarrollo software institucional para mejorar los procesos académicos y administrativos.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Ajal Game Studio",
+      "position": "UX/UI Designer",
+      "url": "https://www.facebook.com/AjalGamesOficial/",
+      "startDate": "2024-05-01",
+      "endDate": "2025-03-01",
+      "summary": "Lideré un equipo de diseño para crear interfaces de usuario atractivas y funcionales para una red social. Colaboré con desarrolladores y otros diseñadores para asegurar una experiencia de usuario de alta calidad.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Freelance",
+      "position": "Desarrollador Web Fullstack",
+      "url": "https://claangel.site",
+      "startDate": "2024-02-08",
+      "endDate": null,
+      "summary": "Desarrollo de sitios web y aplicaciones web para clientes de diversos sectores. Utilizo tecnologías modernas para crear soluciones personalizadas que satisfacen las necesidades de mis clientes.",
       "highlights": [
         "Started the company"
       ]
@@ -78,12 +79,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad Politécnica del Mar Y la Sierra - UPMYS",
+    "url": "https://www.upmys.edu.mx/",
+    "area": "Ingeniero en Tecnologías de la Información",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2021-09-03",
+    "endDate": "2025-05-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -96,11 +97,29 @@
     "summary": "There is no spoon."
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
+    "name": "Cisco Networking Academy",
+    "startDate": "2022-02-03",
+    "endDate": "2025-05-01",
+    "issuer": "Cisco",
+    "url": "https://certificate.com",
+    "courses": [
+      "IT Essentials : PC Hardware and Software.",
+      "CCNAv7: Introduction to Networks.",
+      "CCNAv7: Switching, Routing, and Wireless Essentials."
+    ]
+  },
+  {
+    "name": "Coursera",
+    "startDate": "2024-02-03",
+    "endDate": "2025-05-01",
+    "issuer": "Google",
+    "url": "https://certificate.com",
+    "courses": [
+      "Diseño de Experiencias de Usuario.",
+      "Google Project Managment."
+    ]
+  }
+],
   "publications": [{
     "name": "Publication",
     "publisher": "Company",
@@ -210,66 +229,37 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "CLA Tools",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Plataforma gratuita con herramientas para agilizar la carga de actividades y optimizar procesos académicos de forma rápida y sencilla.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "+500 usuarios activos",
+        "En producción desde 2025",
+        "Astro + Tailwind y JS"
       ],
-      "url": "https://mars.codes"
+      "url": "https://tools.claangel.site"
     },
     {
-      "name": "AdventJS",
+      "name": "CLA Kahoot",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "La plataforma interactiva que transforma el aprendizaje en una experiencia emocionante y competitiva. Perfecta para aulas, reuniones y eventos.",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "+100 usuarios activos",
+        "Alternativa gratuita a Kahoot",
+        "React + Vite y Firebase"
       ],
       "url": "https://adventjs.dev"
     },
     {
-      "name": "Codember",
+      "name": "EDI - UPMYS",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "description": "Plataforma integral para evaluar conocimientos y habilidades académicas dentro de la UPMYS.",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "+1000 usuarios activos",
+        "+5 examenes disponibles",
+        "Moodle + PHP + MySQL"
       ],
       "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
     }
   ]
 }
